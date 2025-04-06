@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>          
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="MU_MechUpgrader"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>VFE_Factory</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="MU_UpgradesStorage"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>VFE_Factory</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="MU_LargeUpgradesStorage"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>VFE_Factory</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="MU_AssemblyCentrifuge"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>VFE_Factory</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="MU_AdvancedUpgradesAssembler"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>VFE_Factory</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="MU_BasicUpgradesAssembler"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>VFE_Factory</designationCategory>
+                    </value>
+                </Operation>
+</Patch>

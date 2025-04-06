@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- REINFORCED MECHANOID 2 PATCHES -->
+<Patch>
+    <!-- RM_DroidBase -->
+    <!-- Parent of: RM_Droid_BufferBase, RM_Droid_SpartanBase -->
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="RM_DroidBase"]/designationCategory</xpath>
+        <value>
+            <designationCategory>VFE_Factory</designationCategory>
+        </value>
+    </Operation>
+
+    <!-- RM_GestaltEngine -->
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="RM_GestaltEngine"]/designationCategory</xpath>
+        <value>
+            <designationCategory>VFE_Factory</designationCategory>
+        </value>
+    </Operation>
+</Patch>
