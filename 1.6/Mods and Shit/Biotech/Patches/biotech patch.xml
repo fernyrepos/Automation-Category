@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>          
+<!-- BIOTECH PATCHES -->   
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[@Name="BaseMechCharger"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="MechBooster"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[@Name="MechGestatorBase"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="SubcoreEncoder"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+</Patch>

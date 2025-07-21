@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>          
+<!-- ALPHA MECHS PATCHES -->   
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="AM_GreaterMechBooster"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="AM_MechEfficiencyBooster"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="AM_MechArmorBooster"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="AM_MechTargettingBooster"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="AM_MechTargettingBooster"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Automation</designationCategory>
+                    </value>
+                </Operation>
+</Patch>

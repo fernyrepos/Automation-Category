@@ -1,22 +1,35 @@
 <loadFolders>
   <v1.4>
     <li>/</li>
-    <li IfModActive="sarg.alphamechs">Mods and Shit/Alpha Mechs</li>
-    <li IfModActive="ludeon.rimworld.biotech">Mods and Shit/Biotech</li>
-    <li IfModActive="vanillaracesexpanded.android">Mods and Shit/VRE Androids</li>
-    <li IfModActive="wvc.sergkart.biotech.MoreMechanoidsWorkModes">Mods and Shit/Work Modes</li>
-    <li IfModActive="rhiom.conveyorbelts.1.02">Mods and Shit/Conveyor Belts</li>
-    <li IfModActive="gogatio.mechanoidupgrades">Mods and Shit/Mechanoid Upgrades</li>
-    <li IfModActive="mlie.reinforcedmechanoid2">Mods and Shit/Reinforced Mechanoid 2</li>
+    <li>1.5</li>
+    <li IfModActive="sarg.alphamechs">1.5/Mods and Shit/Alpha Mechs</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.5/Mods and Shit/Biotech</li>
+    <li IfModActive="vanillaracesexpanded.android">1.5/Mods and Shit/VRE Androids</li>
+    <li IfModActive="wvc.sergkart.biotech.MoreMechanoidsWorkModes">1.5/Mods and Shit/Work Modes</li>
+    <li IfModActive="rhiom.conveyorbelts.1.02">1.5/Mods and Shit/Conveyor Belts</li>
+    <li IfModActive="gogatio.mechanoidupgrades">1.5/Mods and Shit/Mechanoid Upgrades</li>
+    <li IfModActive="mlie.reinforcedmechanoid2">1.5/Mods and Shit/Reinforced Mechanoid 2</li>
   </v1.4>
   <v1.5>
     <li>/</li>
-    <li IfModActive="sarg.alphamechs">Mods and Shit/Alpha Mechs</li>
-    <li IfModActive="ludeon.rimworld.biotech">Mods and Shit/Biotech</li>
-    <li IfModActive="vanillaracesexpanded.android">Mods and Shit/VRE Androids</li>
-    <li IfModActive="wvc.sergkart.biotech.MoreMechanoidsWorkModes">Mods and Shit/Work Modes</li>
-    <li IfModActive="rhiom.conveyorbelts.1.02">Mods and Shit/Conveyor Belts</li>
-    <li IfModActive="gogatio.mechanoidupgrades">Mods and Shit/Mechanoid Upgrades</li>
-    <li IfModActive="mlie.reinforcedmechanoid2">Mods and Shit/Reinforced Mechanoid 2</li>
+    <li>1.5</li>
+    <li IfModActive="sarg.alphamechs">1.5/Mods and Shit/Alpha Mechs</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.5/Mods and Shit/Biotech</li>
+    <li IfModActive="vanillaracesexpanded.android">1.5/Mods and Shit/VRE Androids</li>
+    <li IfModActive="wvc.sergkart.biotech.MoreMechanoidsWorkModes">1.5/Mods and Shit/Work Modes</li>
+    <li IfModActive="rhiom.conveyorbelts.1.02">1.5/Mods and Shit/Conveyor Belts</li>
+    <li IfModActive="gogatio.mechanoidupgrades">1.5/Mods and Shit/Mechanoid Upgrades</li>
+    <li IfModActive="mlie.reinforcedmechanoid2">1.5/Mods and Shit/Reinforced Mechanoid 2</li>
   </v1.5>
+  <v1.6>
+    <li>/</li>
+    <li>1.6</li>
+    <li IfModActive="sarg.alphamechs">1.6/Mods and Shit/Alpha Mechs</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Mods and Shit/Biotech</li>
+    <li IfModActive="vanillaracesexpanded.android">1.6/Mods and Shit/VRE Androids</li>
+    <li IfModActive="wvc.sergkart.biotech.MoreMechanoidsWorkModes">1.6/Mods and Shit/Work Modes</li>
+    <li IfModActive="rhiom.conveyorbelts.1.02">1.6/Mods and Shit/Conveyor Belts</li>
+    <li IfModActive="gogatio.mechanoidupgrades">1.6/Mods and Shit/Mechanoid Upgrades</li>
+    <li IfModActive="mlie.reinforcedmechanoid2">1.6/Mods and Shit/Reinforced Mechanoid 2</li>
+  </v1.6>
 </loadFolders>
