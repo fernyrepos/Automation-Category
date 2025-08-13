@@ -4,7 +4,7 @@
     <defName>Ferny_Automation</defName>
     <label>Automation</label>
     <description>Things that automate stuff.</description>
-    <order>448</order>
+    <order>540</order>
     <specialDesignatorClasses>
       <li>Designator_Cancel</li>
       <li>Designator_Deconstruct</li>
